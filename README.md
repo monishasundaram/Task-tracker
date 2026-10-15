@@ -101,6 +101,3 @@ _Add your own reflection here (2 to 3 sentences): what was hardest, what you wou
 - Export to CSV
 - A simple web interface
 
-## License
-
-MIT. See `LICENSE`.
